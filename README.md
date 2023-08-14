@@ -3,6 +3,7 @@
 Имя мне - Николай Павлов, Java-программист. В прошлом - физик.
 
 Мои сертификаты:
+
 https://github.com/nik220822/nik220822/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Java.pdf
 
 https://github.com/nik220822/nik220822/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%9E%D0%9E%D0%9F.pdf
