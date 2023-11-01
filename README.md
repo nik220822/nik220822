@@ -18,6 +18,10 @@ https://github.com/nik220822/nik220822/blob/main/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%
 
 https://github.com/nik220822/nik220822/blob/main/Web%2C%20Spring%20%26%20Spring%20MVC.pdf
 
+https://github.com/nik220822/nik220822/blob/main/Spring%20Boot.pdf
+
+https://github.com/nik220822/nik220822/blob/main/PersistenceSecurity.pdf
+
 https://github.com/nik220822/nik220822/blob/main/Git%20%E2%80%94%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9.pdf
 
 https://github.com/nik220822/nik220822/blob/main/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BD%D0%B0%20Kotlin.pdf
